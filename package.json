@@ -1,0 +1,26 @@
+{
+  "name": "nodetelegrambot",
+  "version": "1.0.0",
+  "description": "### install  * `npm run install` * `cp config/telegramBot.json.example config/telegramBot.json` * `node index.js`",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhanyujie/nodeTelegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhanyujie/nodeTelegramBot/issues"
+  },
+  "homepage": "https://github.com/suhanyujie/nodeTelegramBot#readme"
+}
